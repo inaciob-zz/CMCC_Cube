@@ -1,0 +1,17 @@
+body {
+	font-family: Monospace;
+	background-color: #f0f0f0;
+	margin: 0px;
+	overflow: hidden;
+}
+	
+#infobar {
+	opacity:0.65;
+	width:100%;
+}
+	
+#infobar p {
+	margin:0px auto;
+	font-size:1.5em;
+	text-align:center;
+}
